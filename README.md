@@ -25,7 +25,7 @@
 
 | Project | What it is |
 | --- | --- |
-| [**ai-content-system**](https://github.com/callipegah/ai-content-system) | A Claude Code plugin: a Radar of AI trends, step-by-step deep dives, and posts, animated diagrams and narrated videos in your own voice and look. Install it in three commands. |
+| [**ai-radar**](https://github.com/callipegah/ai-radar) | A Claude Code plugin: a Radar of AI trends, step-by-step deep dives, and posts, animated diagrams and narrated videos in your own voice and look. Install it in three commands. |
 | [**prometheus-grafana-observability-demo**](https://github.com/callipegah/prometheus-grafana-observability-demo) | A Go service exposing all four Prometheus metric types (gauge, counter, histogram, summary), visualized in Grafana. One `docker compose up`. |
 
 ## What I've learned lately
@@ -37,9 +37,9 @@
 ## Try the content system
 
 ```
-/plugin marketplace add callipegah/ai-content-system
-/plugin install ai-content-system@ai-content-system
-/ai-content-system:setup
+/plugin marketplace add callipegah/ai-radar
+/plugin install ai-radar@ai-radar
+/ai-radar:setup
 ```
 
 <p align="center"><sub>Always curious, always shipping something small.</sub></p>
