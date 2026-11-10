@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pegah <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave"></h1>
+<h1 align="center">Hi, I'm Pegah 👋</h1>
 
 <p align="center">
   <b>Backend &amp; agentic systems engineer</b><br>
@@ -19,7 +19,7 @@
 
 - **Agentic systems.** LLM agents that answer questions over production data, and the unglamorous parts that make them reliable: tool layers, metric registries, deterministic checks, regression tests.
 - **Backend and observability.** Services in Go and Python, instrumented and measured.
-- **Learning AI in public.** Every week I turn something I learned into a post, a diagram or a short video.
+- **Learning AI in public.** I turn what I learn into posts, diagrams and short videos.
 
 ## Featured projects
 
