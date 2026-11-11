@@ -26,6 +26,7 @@ fuel:        curiosity + a dangerously long Watch Later list
   <a href="#-how-i-build-agents"><img src="assets/card-agent.svg" width="49%" alt="Agentic analytics engine: in production"></a>
   <a href="https://github.com/callipegah/youtube-digest"><img src="assets/card-youtube-digest.svg" width="49%" alt="youtube-digest: just shipped"></a>
   <a href="https://github.com/callipegah/ai-content-system"><img src="assets/card-ai-content-system.svg" width="49%" alt="ai-content-system: ongoing"></a>
+  <a href="https://github.com/callipegah/scout"><img src="assets/card-scout.svg" width="49%" alt="Scout: LIVE, planner/explainer v2"></a>
 </p>
 
 ## 🧠 How I build agents
