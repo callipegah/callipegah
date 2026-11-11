@@ -27,6 +27,7 @@ fuel:        curiosity + a dangerously long Watch Later list
   <a href="https://github.com/callipegah/youtube-digest"><img src="assets/card-youtube-digest.svg" width="49%" alt="youtube-digest: just shipped"></a>
   <a href="https://github.com/callipegah/ai-content-system"><img src="assets/card-ai-content-system.svg" width="49%" alt="ai-content-system: ongoing"></a>
   <a href="https://github.com/callipegah/scout"><img src="assets/card-scout.svg" width="49%" alt="Scout: LIVE, planner/explainer v2"></a>
+  <img src="assets/card-labkit.svg" width="49%" alt="labkit: early build, data layer first">
 </p>
 
 ## 🧠 How I build agents
@@ -50,6 +51,7 @@ question --> planner --> tools --> evidence pack --> reasoning LLM --> judge -->
 | 🎬 | [**youtube-digest**](https://github.com/callipegah/youtube-digest) | `/plugin marketplace add callipegah/youtube-digest` and your Watch Later becomes a reading list. |
 | ✨ | [**ai-content-system**](https://github.com/callipegah/ai-content-system) | `/plugin marketplace add callipegah/ai-content-system`: Radar, deep dives, Lightboard visuals, narrated videos. |
 | 🛍️ | [**scout**](https://github.com/callipegah/scout) *(private)* | Shopping assistant: a planner picks search queries, Python enforces budget/mode rules, an explainer writes the answer from evidence only — never an invented price or link. |
+| 🧪 | **labkit** *(private)* | Lab report in, weekly meal plan out. Unit conversions are derived from molar mass and tested against published factors; extraction is a strict JSON contract; meals come from a constraint solver, not free generation. |
 
 ## 🧰 Toolbox
 
