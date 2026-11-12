@@ -28,6 +28,7 @@ fuel:        curiosity + a dangerously long Watch Later list
   <a href="https://github.com/callipegah/ai-content-system"><img src="assets/card-ai-content-system.svg" width="49%" alt="ai-content-system: ongoing"></a>
   <a href="https://github.com/callipegah/scout"><img src="assets/card-scout.svg" width="49%" alt="Scout: LIVE, planner/explainer v2"></a>
   <img src="assets/card-labkit.svg" width="49%" alt="labkit: early build, data layer first">
+  <img src="assets/card-mimital.svg" width="49%" alt="mimital: handmade marketplace, in progress">
   <a href="https://github.com/callipegah/reel-bot"><img src="assets/card-reel-bot.svg" width="49%" alt="reel-bot: running 24/7"></a>
 </p>
 
@@ -54,6 +55,7 @@ question --> planner --> tools --> evidence pack --> reasoning LLM --> judge -->
 | ✨ | [**ai-content-system**](https://github.com/callipegah/ai-content-system) | `/plugin marketplace add callipegah/ai-content-system`: Radar, deep dives, Lightboard visuals, narrated videos. |
 | 🛍️ | [**scout**](https://github.com/callipegah/scout) *(private)* | Shopping assistant: a planner picks search queries, Python enforces budget/mode rules, an explainer writes the answer from evidence only — never an invented price or link. |
 | 🧪 | **labkit** *(private)* | Lab report in, weekly meal plan out. Unit conversions are derived from molar mass and tested against published factors; extraction is a strict JSON contract; meals come from a constraint solver, not free generation. |
+| 🛍️ | **mimital** *(private)* | Marketplace for handmade and concept-store goods in Persian. React + FastAPI + Postgres; clothing hangs on a 3D rail that turns toward you on hover, product photos get AI background removal, login is a phone number plus an SMS code, and an LLM assistant recommends from the real catalog. |
 
 ## 🧰 Toolbox
 
