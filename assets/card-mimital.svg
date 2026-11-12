@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 230" width="480" height="230" role="img" aria-label="mimital: handmade marketplace · in progress">
+<defs>
+<filter id="g" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.s{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif}
+.p{animation:p 1.8s ease-in-out infinite}@keyframes p{0%,100%{opacity:.3}50%{opacity:1}}
+.b{stroke-dasharray:60 1400;animation:b 6s linear infinite}@keyframes b{to{stroke-dashoffset:-1460}}
+</style></defs>
+<rect x="1" y="1" width="478" height="228" rx="16" fill="#05060a" stroke="#34d399" stroke-opacity=".35" stroke-width="1.5"/>
+<rect x="1" y="1" width="478" height="228" rx="16" fill="none" stroke="#34d399" stroke-width="2" class="b" filter="url(#g)"/>
+<circle cx="34" cy="36" r="9" fill="#34d399" opacity=".25" class="p"/>
+<circle cx="34" cy="36" r="4.5" fill="#34d399"/>
+<text x="52" y="41" class="m" font-size="12.5" letter-spacing="1.2" fill="#34d399">IN PROGRESS · storefront + phone login</text>
+<text x="28" y="80" class="s" font-size="27" font-weight="700" fill="#f8fafc" filter="url(#g)">mimital</text>
+<text x="28" y="112" class="m" font-size="14.5" fill="#cbd5e1">Lab report in, weekly meal plan out. Unit</text><text x="28" y="136" class="m" font-size="14.5" fill="#cbd5e1">conversions derived from molar mass, not copied;</text><text x="28" y="160" class="m" font-size="14.5" fill="#cbd5e1">a solver plans meals; the LLM only explains.</text>
+<line x1="28" x2="452" y1="188" y2="188" stroke="#ffffff" stroke-opacity=".08"/>
+<text x="28" y="211" class="m" font-size="13" fill="#6b7280">private · ask me about it</text>
+<text x="452" y="211" class="m" font-size="15" fill="#34d399" text-anchor="end">→</text>
+</svg>
