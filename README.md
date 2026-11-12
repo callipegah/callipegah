@@ -48,6 +48,7 @@ question --> planner --> tools --> evidence pack --> reasoning LLM --> judge -->
 | | Project | What it is |
 | --- | --- | --- |
 | 📈 | [**prometheus-grafana-observability-demo**](https://github.com/callipegah/prometheus-grafana-observability-demo) | A Go service exposing all four Prometheus metric types, visualized in Grafana. One `docker compose up`. |
+| 📲 | [**reel-bot**](https://github.com/callipegah/reel-bot) *(running 24/7, private to me)* | Telegram bot: send an Instagram reel link, get a summary, then chat about it ("shorter", "explain this tool"). yt-dlp + Whisper + an LLM, locked to one user ID, no Instagram login. |
 | 🎬 | [**youtube-digest**](https://github.com/callipegah/youtube-digest) | `/plugin marketplace add callipegah/youtube-digest` and your Watch Later becomes a reading list. |
 | ✨ | [**ai-content-system**](https://github.com/callipegah/ai-content-system) | `/plugin marketplace add callipegah/ai-content-system`: Radar, deep dives, Lightboard visuals, narrated videos. |
 | 🛍️ | [**scout**](https://github.com/callipegah/scout) *(private)* | Shopping assistant: a planner picks search queries, Python enforces budget/mode rules, an explainer writes the answer from evidence only — never an invented price or link. |
